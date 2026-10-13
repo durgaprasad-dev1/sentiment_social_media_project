@@ -1,0 +1,14 @@
+{
+  "dataset": "cardiffnlp/tweet_eval (sentiment)",
+  "train_examples": 45615,
+  "validation_examples": 2000,
+  "test_examples": 12284,
+  "label_names": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "test_accuracy": 0.5967925757082384,
+  "test_macro_f1": 0.5747561348695527,
+  "model": "TF-IDF word 1-2 grams + Logistic Regression"
+}
