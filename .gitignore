@@ -1,0 +1,9 @@
+.venv/
+PROJECT_REPORT_TEMPLATE.md
+__pycache__/
+*.py[cod]
+.cache/
+artifacts/*
+!artifacts/.gitkeep
+reports/*
+!reports/.gitkeep
