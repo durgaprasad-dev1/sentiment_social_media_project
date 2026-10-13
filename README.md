@@ -118,4 +118,9 @@ These outputs are generated when you run the training script. They are not inclu
 - Confidence values are model estimates, not guarantees.
 - Check dataset and model licensing/terms before publicly redistributing data or deploying commercially.
 
+## Results and Screenshots
 
+![alt text](reports/training_label_distribution.png)
+
+![alt text](reports/confusion_matrix.png)
+[text](reports/validation_classification_report.txt)
